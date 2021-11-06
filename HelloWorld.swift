@@ -38,6 +38,13 @@ func animatingFunc() {
 }
 
 
+/*
+Isso é um comentario em Swift
+*/
+
+// Isso é um comentario em Swift
+
+
 
 
 let names = ["Chris", "Alex", "Ewa", "Barry", "Daniella"]
@@ -49,13 +56,6 @@ print(names)
 print(reversedNames)
 // vai trazer em ordem alfabetica os nomes
 
-
-
-/*
-Isso é um comentario em Swift
-*/
-
-// Isso é um comentario em Swift
 
 
 
@@ -78,3 +78,4 @@ func oi(_ pessoa: String,no dia : String) -> String {
     return "Oi \(pessoa), hoje é \(dia)."
 }
 oi("João", no: "Terça-Feira")
+
